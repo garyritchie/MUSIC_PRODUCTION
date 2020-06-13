@@ -22,3 +22,11 @@ Most have free trial.
 ### Theory
 
 - https://www.youtube.com/watch?v=n2z02J4fJwg
+
+## Instruments
+
+### Soundfont
+
+- [Polyphone - How to Create a Virtual Instrument Part 1](https://www.youtube.com/watch?v=UJ4oqwEKsrg)
+- A few Pianobook libraries are offered as soundfonts, e.g.: [1911 BECHSTEIN UPRIGHT](https://www.pianobook.co.uk/library/1911-bechstein-upright-andrew-ward/)
+
